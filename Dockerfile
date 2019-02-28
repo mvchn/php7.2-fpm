@@ -1,6 +1,6 @@
 FROM php:7.2-fpm-alpine3.9
 
-LABEL maintainer="Roman Movchan <movchan@gmail.com>"
+LABEL maintainer="MVCHN <movchan@gmail.com>"
 
 WORKDIR /app
 
